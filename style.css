@@ -97,5 +97,6 @@ div.questions a.btn {
 }
 
 div.questions a.btn:hover {
-  background-color, border-color: #0069d9;
+  background-color: #0069d9;
+  border-color: #0069d9;
 }
